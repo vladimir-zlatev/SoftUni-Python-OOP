@@ -6,4 +6,6 @@ Added First Steps in OOP - Lab:
     - Added Class Book
     - Added Car
     - Added Music
- 
+Added First Steps in OOP - Exercise:
+    - Added Shop
+    - Added Hero
