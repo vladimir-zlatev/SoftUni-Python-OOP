@@ -9,3 +9,4 @@ Added First Steps in OOP - Lab:
 Added First Steps in OOP - Exercise:
     - Added Shop
     - Added Hero
+    - Added Employee
