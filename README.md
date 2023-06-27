@@ -10,3 +10,5 @@ Added First Steps in OOP - Exercise:
     - Added Shop
     - Added Hero
     - Added Employee
+    - Added Cup
+    - Added Flower
