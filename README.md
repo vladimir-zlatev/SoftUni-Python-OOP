@@ -12,3 +12,4 @@ Added First Steps in OOP - Exercise:
     - Added Employee
     - Added Cup
     - Added Flower
+    - Added Steam User
