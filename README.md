@@ -14,3 +14,7 @@ Added First Steps in OOP - Exercise:
     - Added Flower
     - Added Steam User
     - Added Programmer
+Added Classes and Objects - Lab:
+    - Added Vehicle
+    - Added Point
+    - Added Circle
