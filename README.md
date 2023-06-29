@@ -18,3 +18,5 @@ Added Classes and Objects - Lab:
     - Added Vehicle
     - Added Point
     - Added Circle
+    - Added Glass
+    - Added Smartphone
