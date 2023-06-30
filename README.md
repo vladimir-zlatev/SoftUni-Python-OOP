@@ -20,3 +20,6 @@ Added Classes and Objects - Lab:
     - Added Circle
     - Added Glass
     - Added Smartphone
+Added Classes and Objects - Exercise
+    - Added Vet
+    - Added Time
