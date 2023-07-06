@@ -29,3 +29,6 @@ Added Classes and Objects - Exercise
 Added Inheritance - Lab:
     - Added Food
     - Added Single Inheritance
+    - Added 3 Multiple Inheritance
+    - Added 4 Multilevel Inheritance
+    - Added Hierarchical Inheritance
