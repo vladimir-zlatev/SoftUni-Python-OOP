@@ -25,3 +25,7 @@ Added Classes and Objects - Exercise
     - Added Time
     - Added Account
     - Added Pizza Delivery
+    - Added To-do List
+Added Inheritance - Lab:
+    - Added Food
+    - Added Single Inheritance
