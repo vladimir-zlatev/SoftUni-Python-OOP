@@ -32,3 +32,6 @@ Added Inheritance - Lab:
     - Added 3 Multiple Inheritance
     - Added 4 Multilevel Inheritance
     - Added Hierarchical Inheritance
+    - Added Stack of Strings
+Added Inheritance - Exercise:
+    - Added Person
