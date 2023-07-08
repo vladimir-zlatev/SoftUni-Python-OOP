@@ -1,9 +1,12 @@
-from inheritance_exercise.lizard import Lizard
-from inheritance_exercise.mammal import Mammal
+from inheritance_exercise.elf import Elf
+from inheritance_exercise.hero import Hero
 
-mammal = Mammal("Stella")
-print(mammal.__class__.__bases__[0].__name__)
-print(mammal.name)
-lizard = Lizard("John")
-print(lizard.__class__.__bases__[0].__name__)
-print(lizard.name)
+hero = Hero("H", 4)
+print(hero.username)
+print(hero.level)
+print(str(hero))
+elf = Elf("E", 4)
+print(str(elf))
+print(elf.__class__.__bases__[0].__name__)
+print(elf.username)
+print(elf.level)
