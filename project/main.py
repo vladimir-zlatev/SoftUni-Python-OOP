@@ -1,12 +1,17 @@
-from inheritance_exercise.elf import Elf
-from inheritance_exercise.hero import Hero
+from inheritance_exercise.family_car import FamilyCar
+from inheritance_exercise.vehicle import Vehicle
 
-hero = Hero("H", 4)
-print(hero.username)
-print(hero.level)
-print(str(hero))
-elf = Elf("E", 4)
-print(str(elf))
-print(elf.__class__.__bases__[0].__name__)
-print(elf.username)
-print(elf.level)
+vehicle = Vehicle(50, 150)
+print(Vehicle.DEFAULT_FUEL_CONSUMPTION)
+print(FamilyCar.DEFAULT_FUEL_CONSUMPTION)
+print(vehicle.fuel)
+print(vehicle.horse_power)
+print(vehicle.fuel_consumption)
+vehicle.drive(100)
+print(vehicle.fuel)
+family_car = FamilyCar(150, 150)
+family_car.drive(50)
+print(family_car.fuel)
+family_car.drive(50)
+print(family_car.fuel)
+print(family_car.__class__.__bases__[0].__name__)
