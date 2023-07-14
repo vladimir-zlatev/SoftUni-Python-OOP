@@ -1,17 +1,13 @@
-from inheritance_exercise.family_car import FamilyCar
-from inheritance_exercise.vehicle import Vehicle
+from inheritance_exercise.drink import Drink
+from inheritance_exercise.food import Food
+from inheritance_exercise.product_repository import ProductRepository
 
-vehicle = Vehicle(50, 150)
-print(Vehicle.DEFAULT_FUEL_CONSUMPTION)
-print(FamilyCar.DEFAULT_FUEL_CONSUMPTION)
-print(vehicle.fuel)
-print(vehicle.horse_power)
-print(vehicle.fuel_consumption)
-vehicle.drive(100)
-print(vehicle.fuel)
-family_car = FamilyCar(150, 150)
-family_car.drive(50)
-print(family_car.fuel)
-family_car.drive(50)
-print(family_car.fuel)
-print(family_car.__class__.__bases__[0].__name__)
+food = Food("apple")
+drink = Drink("water")
+repo = ProductRepository()
+repo.add(food)
+repo.add(drink)
+print(repo.products)
+print(repo.find("water"))
+repo.find("apple").decrease(5)
+print(repo)

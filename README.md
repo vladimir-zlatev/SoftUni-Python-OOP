@@ -38,4 +38,6 @@ Added Inheritance - Exercise:
     - Added Zoo
     - Added Players and Monsters
     - Added Need for Speed
-    - 
+    - Added Shop
+Added SOLID - Lab:
+    - Added Books
