@@ -41,3 +41,8 @@ Added Inheritance - Exercise:
     - Added Shop
 Added SOLID - Lab:
     - Added Books
+    - Added Print Books
+    - Added Animals
+    - Added Ducks
+    - Added Entertainment System
+    - Added ISP
