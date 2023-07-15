@@ -28,7 +28,7 @@ class RubberDuck(Duck):
         return "Squeek"
 
 
-class RobotDuck(Duck, FlyObject, WalkableObject0):
+class RobotDuck(Duck, FlyObject, WalkableObject):
     HEIGHT = 50
 
     def __init__(self):
